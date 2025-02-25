@@ -2,7 +2,7 @@
 
 A powerful Word processing library allowing developers to create, read, edit, and convert Word documents in JavaScript.
 
-[![Foo](https://imgur.com/a/al1DkR2.png)](https://www.e-iceblue.com/Introduce/doc-for-javascript.html)
+[![Foo](https://i.imgur.com/E7SCiVs.png)](https://www.e-iceblue.com/Introduce/doc-for-javascript.html)
 
 [Product Page](https://www.e-iceblue.com/Introduce/doc-for-javascript.html) | Documentation | Examples | [Forum](https://www.e-iceblue.com/forum/spire-doc-f6.html) | [Temporary License](https://www.e-iceblue.com/TemLicense.html) | [Customized Demo](https://www.e-iceblue.com/Misc/customized-demo.html)
 
